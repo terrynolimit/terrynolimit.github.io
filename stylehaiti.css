@@ -1,0 +1,52 @@
+#nsc :hover{
+
+    opacity: 0.4;
+
+    transform: scale(1.05);
+
+    transition: 0.3s ease-in-out
+
+}
+
+
+
+#stes :hover{
+
+    opacity: 0.4;
+
+    transform: scale(1.05);
+
+    transition: 0.3s ease-in-out
+
+}
+
+#stns :hover{
+
+    opacity: 0.4;
+
+    transform: scale(1.05);
+
+    transition: 0.3s ease-in-out
+
+}
+
+#acceuil :hover{
+
+    opacity: 0.4;
+
+    transform: scale(1.05);
+
+    transition: 0.3s ease-in-out
+
+}
+
+#decvr :hover{
+
+    opacity: 0.4;
+
+    transform: scale(1.05);
+
+    transition: 0.2s ease-in-out
+
+}
+
